@@ -5,12 +5,9 @@
 # Produzido por:
 * João Paulo Ribeiro
 
-## Participantes que auxiliaram:
+## Participantes que me auxiliaram em todos os processos do PSet:
 * Izabelle Avena
 * Ruan Costa
-* Gustavo Gomes
-* Bruno Sacth
-* Lucas Oliveira
 
 ## Resumo:
  Este subdiretório é destinado a documentar todo o _PSet_ durante a resolução do mesmo.Este problem set foca em aprimorar e avaliar o conhecimento sobre Banco de Dados Relacionais e a Linguagem SQl,através de questões discursivas e implementação de um modelo de dados relacional em um SGBD,sendo utilizado neste _PSet_ o _PostgreSQL_ e o _MySQL_.
