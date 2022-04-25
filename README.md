@@ -8,6 +8,7 @@
 ## Participantes que auxiliaram:
 * Izabelle Avena
 * Ruan Costa
+* Gustavo Gomes
 * Bruno Satch
 * Lucas Oliveira
 
