@@ -2,6 +2,15 @@
 
 # Problem Set 1
 
+# Produzido por:
+* João Paulo Ribeiro
+
+## Participantes que auxiliaram:
+* Izabelle Avena
+* Ruan Costa
+* Bruno Satch
+* Lucas Oliveira
+
 ## Resumo:
  Este subdiretório é destinado a documentar todo o _PSet_ durante a resolução do mesmo.Este problem set foca em aprimorar e avaliar o conhecimento sobre Banco de Dados Relacionais e a Linguagem SQl,através de questões discursivas e implementação de um modelo de dados relacional em um SGBD,sendo utilizado neste _PSet_ o _PostgreSQL_ e o _MySQL_.
  
@@ -16,6 +25,9 @@
 * Criação do repositório "uvv_bd_1_si1n"
 * Criação do subdiretório 
 * Resolução das questões discursivas sobre o Git e Github
+
+### Resumo da etapa:
+* Foi necessário bastante estudo sobre o Git e a plataforma GitHub,tanto para o uso no _PSet_ quanto na resolusão das questões,mas consegui aprimorar os meus conhecimentos a respeito do Sistema de Controle de Versões e suas funcionalidades.
 
 ## Implementação de modelos lógicos no SGBD
 
@@ -51,3 +63,12 @@
 * Upload do projeto lógico para o GitHub
 * Upload do script "PostgreSQL" para o GitHub
 * Upload do script "MySQL" para o GitHub
+
+## Considerações Finais:
+### Durante a resolução deste PSet,foi necessário expandir meu conhecimento sobre:
+* Documentação do _PostgreSQL_ para adaptar o script aos comandos do _PostgreSQL_
+* Documentação do _MySQL_ para adaptar o script aos comandos do _MySQL_
+* Projetos lógicos e conceituais, para aplicar a tabela elmasri com precisão nos SGBD's
+* Conhecimento sobre o GitHub para usá-lo de forma correta
+
+ Em geral,o Pset demandou bastante esforço e tempo,porém espero ter feito de forma correta e acredito que o Pset foi uma evolução muito grande nos meus conhecimentos sobre Bancos de Dados,agradeço também aos colegas de turma que me auxiliaram neste processo de resolução do Pset.
