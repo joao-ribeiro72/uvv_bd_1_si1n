@@ -9,7 +9,7 @@
 * Izabelle Avena
 * Ruan Costa
 * Gustavo Gomes
-* Bruno Satch
+* Bruno Sacth
 * Lucas Oliveira
 
 ## Resumo:
