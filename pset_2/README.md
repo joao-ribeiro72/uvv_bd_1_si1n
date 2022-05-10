@@ -5,10 +5,6 @@
 # Produzido por:
 * João Paulo Ribeiro
 
-## Participantes que me auxiliaram em todos os processos do PSet:
-* Izabelle Avena
-* Ruan Costa
-
 ## Resumo:
  Este subdiretório é destinado a documentar todo o _PSet_ durante a resolução do mesmo.Este problem set foca em aprimorar e avaliar o conhecimento sobre consultas no Banco de Dados usando a linguagem _SQL_,feita a partir do Banco de Dados gerado no _Pset2_
 
@@ -23,7 +19,7 @@
   Durante a resolução do _Pset2_, foi necessário expandir meus conhecimentos sobre:
 
 * Conhecimento sobre a linguagem SQL.
-* Conhecimento sobre Álgebra Relacional.
+* Conhecimento sobre Álgebra  Relacional.
 * Consultas em SQL usando SELECT,FROM,WHERE,JOIN,UNION,CASE,ORDER BY e GROUP BY.
 
 
