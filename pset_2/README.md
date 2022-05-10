@@ -10,7 +10,7 @@
 * Ruan Costa
 
 ## Resumo:
- Este subdiretório é destinado a documentar todo o _PSet_ durante a resolução do mesmo.Este problem set foca em aprimorar e avaliar o conhecimento sobre consultas no Banco de Dados usando a linguagem _SQL_,feita a partir do Banco de Dados gerado no _Pset1_
+ Este subdiretório é destinado a documentar todo o _PSet_ durante a resolução do mesmo.Este problem set foca em aprimorar e avaliar o conhecimento sobre consultas no Banco de Dados usando a linguagem _SQL_,feita a partir do Banco de Dados gerado no _Pset2_
 
 ## Etapas:
 * Pesquisa em livros e sites sobre álgebra relacional
