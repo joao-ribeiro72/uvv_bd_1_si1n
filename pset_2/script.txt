@@ -100,20 +100,3 @@ WHERE cpf_funcionario = f.cpf;
 
 
 
-
-
-
-
-
-
-
-
-15-XXXXXXXXXXx
-SELECT primeiro_nome, nome_meio, ultimo_nome, d.nome_departamento, p.nome_projeto
-FROM funcionario as f LEFT JOIN projeto as p on (f.numero_departamento = p.numero_departamento)
-JOIN trabalha_em as t on (f.cpf = t.cpf_funcionario) AND (t.numero_projeto = p.numero_projeto)
-JOIN departamento as d on (d.numero_departamento = f.numero_departamento) AND (d.numero_departamento = p.numero_departamento)
-ORDER BY primeiro_nome;
-
-
-
