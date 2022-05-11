@@ -4,7 +4,8 @@
 /* Questão 1*\
 SELECT nome_departamento, AVG(salario)
 FROM funcionario, departamento
-GROUP BY nome_departamento HAVING AVG(salario);
+WHERE funcionario.numero_departamento = departamento.numero_departamento
+GROUP BY funcionario.numero_departamento, nome_departamento;
 
 /* Questão 2 *\
 SELECT sexo, AVG(salario) as media_salarial
