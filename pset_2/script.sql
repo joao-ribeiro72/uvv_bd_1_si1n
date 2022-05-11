@@ -97,5 +97,3 @@ JOIN funcionario as f JOIN departamento as d on (d.numero_departamento = f.numer
 WHERE cpf_funcionario = f.cpf;
 
 
-
-
