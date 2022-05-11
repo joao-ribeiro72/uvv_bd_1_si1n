@@ -1,7 +1,7 @@
 /*PSet 2*\
 
 
-/* Questão 1*\
+/* Questão 1 *\
 SELECT nome_departamento, AVG(salario)
 FROM funcionario, departamento
 WHERE funcionario.numero_departamento = departamento.numero_departamento
@@ -34,7 +34,7 @@ JOIN departamento join funcionario on (departamento.cpf_gerente = funcionario.cp
 WHERE departamento.nome_departamento = d.nome_departamento
 ORDER BY d.nome_departamento ASC, f.salario DESC;
 
-/* Questão 6*\
+/* Questão 6 *\
 SELECT  primeiro_nome, nome_meio, ultimo_nome, nome_departamento, nome_dependente, 2022 - year(de.data_nascimento) as idade, de.sexo,
 CASE 
 WHEN de.sexo = 'M' THEN 'masculino'
