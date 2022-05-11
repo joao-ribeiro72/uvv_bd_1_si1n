@@ -87,6 +87,7 @@ SELECT primeiro_nome, nome_meio, ultimo_nome, 2022 -year(funcionario.data_nascim
 FROM funcionario 
 LEFT JOIN dependente on (dependente.cpf_funcionario = funcionario.cpf)
 ORDER BY idade DESC;
+
 /* Questão 14 *\
 SELECT funcionario.numero_departamento, departamento.nome_departamento, COUNT(cpf) as qtde_por_departamento 
 FROM departamento join funcionario ON (funcionario.numero_departamento = departamento.numero_departamento) GROUP BY numero_departamento;
@@ -96,6 +97,4 @@ SELECT primeiro_nome, nome_meio, ultimo_nome, d.nome_departamento, p.nome_projet
 FROM trabalha_em as t LEFT JOIN projeto as p on (p.numero_projeto = t.numero_projeto)
 JOIN funcionario as f JOIN departamento as d on (d.numero_departamento = f.numero_departamento)
 WHERE cpf_funcionario = f.cpf;
-
-
 
